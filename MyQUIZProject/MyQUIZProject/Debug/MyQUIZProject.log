@@ -1,0 +1,4 @@
+﻿  Quiz.cpp
+H:\Visual Studios\MyQUIZProject\MyQUIZProject\Quiz.cpp(68,47): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+H:\Visual Studios\MyQUIZProject\MyQUIZProject\Quiz.cpp(87,45): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  MyQUIZProject.vcxproj -> H:\Visual Studios\MyQUIZProject\Debug\MyQUIZProject.exe
